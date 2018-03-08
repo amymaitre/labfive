@@ -1,0 +1,11 @@
+.background    { background: linear-gradient(#7647a2, #885ead, #9975b9);
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: chartreuse; }
+.wall          { background: peru;   }
+.floater       { background: #66421f;   }
+
+.game {
+  position: relative;
+}
